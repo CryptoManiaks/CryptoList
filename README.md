@@ -317,6 +317,7 @@ invest in cryptocurrency.
 * [Coin Demo](https://coindemo.io) - Visual demonstration of how bitcoin transactions work.
 * [Rhymes With Fiat](https://www.rhymeswithfiat.com) - Bitcoin webcomic (with educational notes).
 * [Whitepaper.io](https://whitepaper.io) - All whitepapers in one place.
+* [CryptoManiaks] (https://cryptomaniaks.com/) - Unique platform to learn how to navigate the Crypto space and invest in Cryptocurrencies securely. 
 # Trading Tools
 * [Quadency](https://quadency.com) - Crypto trading and real-time portfolio analytics.
 # For Developers
